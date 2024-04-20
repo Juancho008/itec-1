@@ -1,11 +1,11 @@
 {
     "name": "openmvc/framephp",
-    "description": "Modelo MVC para PHP Sencillo",
-    "type": "proyecto",
+    "description": "Modelo MVC",
+    "type": "ITEC",
     "authors": [
         {
-            "name": "John Babi",
-            "email": "johnbabi.jb@gmail.com"
+            "name": "Juan Espindola",
+            "email": "juanignacioespindola08@gmail.com"
         }
     ],
     "require": {
