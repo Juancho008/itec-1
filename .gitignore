@@ -1,0 +1,3 @@
+public/.htaccess
+public/vendor/*
+app/config/configurar.php
